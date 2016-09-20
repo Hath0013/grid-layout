@@ -40,6 +40,11 @@ figcaption {
   padding: .5em;
 }
 
+.img-size {
+  width: 75%;
+  text-align: center;
+}
+
 @media only screen and (min-width: 25em) {
 
   html {
